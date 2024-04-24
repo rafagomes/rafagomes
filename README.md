@@ -6,7 +6,7 @@ I'm a seasoned full-stack developer and a lead at a remote blockchain company. I
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafa-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/rafagomesdev](https://www.linkedin.com/in/rafagomesdev))
-[![Website](https://img.shields.io/badge/Website-www.yourwebsite.com-blue?style=flat-square)]([http://www.rafagomes.dev](https://rafagomes.dev))
+[![Website](https://img.shields.io/badge/Website-www.rafagomes.dev-blue?style=flat-square)]([http://www.rafagomes.dev](https://rafagomes.dev))
 
 ### Technologies & Tools:
 - **Frontend:** React, Next.js

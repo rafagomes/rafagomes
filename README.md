@@ -5,8 +5,8 @@
 I'm a seasoned full-stack developer and a lead at a remote blockchain company. I'm passionate about leveraging cutting-edge technologies to build innovative products and solutions. With a deep interest in blockchain and game development, I am constantly exploring new tech to create business opportunities.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafa-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/rafagomesdev/))
-[![Website](https://img.shields.io/badge/Website-www.yourwebsite.com-blue?style=flat-square)]([http://www.yourwebsite.com](https://rafagomes.dev/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafa-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/rafagomesdev](https://www.linkedin.com/in/rafagomesdev))
+[![Website](https://img.shields.io/badge/Website-www.yourwebsite.com-blue?style=flat-square)]([http://www.rafagomes.dev](https://rafagomes.dev))
 
 ### Technologies & Tools:
 - **Frontend:** React, Next.js
@@ -20,4 +20,4 @@ I'm a seasoned full-stack developer and a lead at a remote blockchain company. I
 - **Investment & Technology Exploration:** Keen to discuss and learn about new investment opportunities and technological trends.
 
 ### Looking For:
-I'm keen on opportunities to contribute and grow, especially in roles that utilize my expertise in blockchain and full-stack development. If your company is on the cutting edge of technology, I'd love to hear from you.
+I'm keen on opportunities to contribute and grow, especially in roles that utilize my blockchain and full-stack development expertise. If your company is on the cutting edge of technology, I'd love to hear from you.

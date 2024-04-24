@@ -1,6 +1,6 @@
 # Hi there, I'm Rafa 👋
 
-## Full-Stack Developer Lead | Blockchain Enthusiast | Game and Product Innovator
+## Full-Stack Developer Lead | Blockchain Enthusiast | Innovative Product builder
 
 I'm a seasoned full-stack developer and a lead at a remote blockchain company. I'm passionate about leveraging cutting-edge technologies to build innovative products and solutions. With a deep interest in blockchain and game development, I constantly explore new tech to create business opportunities.
 

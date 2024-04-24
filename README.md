@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer Lead | Blockchain Enthusiast | Innovative Product builder
 
-I'm a seasoned full-stack developer and a lead at a remote blockchain company. I'm passionate about leveraging cutting-edge technologies to build innovative products and solutions. With a deep interest in blockchain, AI, and disruptive tech. I constantly explore new technologies to create business opportunities.
+I am based in Brazil (GMT -3), a seasoned full-stack developer, and a lead at a remote American blockchain company. I'm passionate about leveraging cutting-edge technologies to build innovative products and solutions, and I have a deep interest in blockchain, AI, and disruptive tech. I constantly explore new technologies to create business opportunities.
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafa-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/rafagomesdev](https://www.linkedin.com/in/rafagomesdev))

@@ -5,8 +5,8 @@
 I am based in Brazil (GMT -3), a seasoned full-stack developer, and a lead at a remote American blockchain company. I'm passionate about leveraging cutting-edge technologies to build innovative products and solutions, and I have a deep interest in blockchain, AI, and disruptive tech. I constantly explore new technologies to create business opportunities.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/rafagomesdev-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/rafagomesdev](https://www.linkedin.com/in/rafagomesdev))
-[![Website](https://img.shields.io/badge/Website-www.rafagomes.dev-blue?style=flat-square)]([http://www.rafagomes.dev](https://rafagomes.dev))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafagomesdev)
+[![Website](https://img.shields.io/badge/Website-rafagomes.dev-blue?style=flat-square)](https://rafagomes.dev)
 
 ### Technologies & Tools:
 - **Frontend:** React, Next.js

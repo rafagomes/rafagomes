@@ -23,3 +23,12 @@ I am based in Brazil (GMT -3), a seasoned full-stack developer, and a lead at a 
 
 ### Looking For:
 I'm keen on opportunities to contribute and grow, especially in roles that utilize my blockchain and full-stack development expertise. If your company is on the cutting edge of technology, I'd love to hear from you.
+
+<table>
+    <tbody>
+        <tr>
+            <td><img alt="Top Languages" src="https://github-readme-stats-lucky-one.vercel.app/api/top-langs/?username=rafagomes&bg_color=15254000&title_color=007BFF&icon_color=808080&text_color=808080&hide_border=true&show_icons=true&langs_count=6&border_radius=0&layout=compact" height="230px"/></td>
+          <td><img src="https://streak-stats.demolab.com?user=rafagomes&hide_border=true&border_radius=0&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=0&background=15254000&ring=007BFF&currStreakLabel=808080&fire=007BFF&sideNums=808080&stroke=15254000&dates=808080&currStreakNum=007BFF&sideLabels=808080&excludeDaysLabel=15254000" alt="GitHub Streak" height="230px" /></td>
+        </tr>
+    </tbody>
+</table>

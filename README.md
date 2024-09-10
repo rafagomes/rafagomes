@@ -9,15 +9,17 @@ I am based in Brazil (GMT -3), a seasoned full-stack developer, and a lead at a 
 [![Website](https://img.shields.io/badge/Website-rafagomes.dev-blue?style=flat-square)](https://rafagomes.dev)
 
 ### Technologies & Tools:
-- **Frontend:** React, Next.js
-- **Backend:** Node.js, Nest, Express, Python, Django and Golang, Gin
+- **Frontend:** React (Next.js)
+- **Backend:** Node.js (Nest, Express), Python(Django), and Golang (Gin).
 - **Mobile:** Flutter and React Native
-- **Blockchain:** Learning more and more about Solidity and Rust as well as distributed systems
-- **Other:** Docker, Kubernetes, AWS, Encryption
+- **Blockchain:** Distributed systems development, and architecture with Solidity, Rust, and Go.
+- **Low level** Rust.
+- **Other:** Docker, Kubernetes, AWS, Encryption, Security and advanced Linux.
 
 ### Hobbies & Interests:
-- **Investment & Technology Exploration:** Keen to discuss and learn about new investment opportunities and technological trends.
+- **Investment & Technology Discovery:** Keen to discuss and learn about new investment opportunities and technological trends.
 - **Ethical hacking learning:** Obsessed with security and breaking things, continuing to learn more about how to keep things secure.
+- **Linux** I'm an advocate of Linux. Arch Linux is my preferred distro, sometimes combined with Debian. Love to talk about it.
 - **3D Modeling:** Utilizing tools like Blender to create stunning, high-quality 3D models for various applications.
 - **Aviation:** Virtual aviation simulation is my passion.
 

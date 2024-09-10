@@ -6,7 +6,6 @@ I am based in Brazil (GMT -3), a seasoned full-stack developer, and a lead at a 
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafagomesdev)
-[![Website](https://img.shields.io/badge/Website-rafagomes.dev-blue?style=flat-square)](https://rafagomes.dev)
 
 ### Technologies & Tools:
 - **Frontend:** React (Next.js)
